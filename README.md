@@ -2,4 +2,4 @@
 
 Classic Chess with Extra Twist and Strategy!
 
-Web Game Version : wallobor.github.io/roguelitechess/
+Web Game Version : https://wallobor.github.io/roguelitechess/
